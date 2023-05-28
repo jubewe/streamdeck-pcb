@@ -50,9 +50,9 @@
   (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers "*.Cu" "*.Mask") (tstamp 45812f61-4641-4c30-a58e-0545d20814c5))
   (pad "1" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp e3d4469c-1ae7-43a7-9b5e-5340728cd3a3))
   (pad "2" thru_hole circle (at -6.35 2.54) (size 2.2 2.2) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 99177828-e2c5-49fc-9336-e78c7d0445bc))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_Plate.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/MX .STEP"
+    (offset (xyz 4.75 2.25 6))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 180))
   )
 )
